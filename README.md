@@ -54,9 +54,11 @@ The vine dataframe was used for further analysis.  It was filtered to include to
 
 Based on the book dataset examined for this project, it does not appear that the paid reviews are biased.  The amount of 5-star reviews from Vine vs Non-Vine members are very similar, with non-paid reviews coming in at a slightly higher positive rating percentage.
 
+### Additional Analysis 
+
 An additional analysis could be completed to further test this hypothesis.  The reviews could be sorted by the product_id or product_titles.  The reviews for paid vs unpaid could be compared per item to see if they received similar star ratings and if any conclusions may be drawn from those results.
 
-### Tools used
+#### Tools used
 
 - AWS
 - Google CoLab
