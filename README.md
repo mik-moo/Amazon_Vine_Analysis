@@ -63,3 +63,7 @@ An additional analysis could be completed to further test this hypothesis.  The 
 - AWS
 - Google CoLab
 - PySpark
+
+#### Dataset
+
+For this analysis, books_v1_00 was used. https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
